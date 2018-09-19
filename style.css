@@ -1,0 +1,23 @@
+header{width: 100%;
+	background:url(http://beloweb.ru/wp-content/uploads/2012/08/upgrade.jpg) no-repeat center bottom;;
+	height: 150px;
+  background-size: 100%;
+}
+
+  
+  table {
+    width: 100%; 
+    background: white; 
+    color: white; 
+    border-spacing: 1px; 
+   }
+   td, th {
+    background: maroon;
+    padding: 5px; 
+   }
+   body{
+    background-image: url(https://images.unsplash.com/photo-1460602594182-8568137446ce?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=c6a89cf0d31c8ed23b35aaf9a119a9f5&w=1000&q=80);
+    background-size: 100 
+   }
+
+  
